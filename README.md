@@ -2,9 +2,12 @@
 
 <h2>Logo Design Winner</h2>
 <p>Designed by: Martin Tran</p>
-<img src="https://github.com/user-attachments/assets/83569537-ca5f-4e63-abb8-813c0ac305ec" alt="OQQBlack Contestant 12" width="300" height="200"/>
-<img src="https://github.com/user-attachments/assets/5095a5e7-eeaa-46d0-89e2-333ac0d38754" alt="OQQWhite" width="300" height="200"/>
-<img src="https://github.com/user-attachments/assets/def03f3a-eeba-480f-bcf8-67273073859d" alt="OQQTransparentWhite" width="300" height="200"/>
+<img src="https://github.com/user-attachments/assets/83569537-ca5f-4e63-abb8-813c0ac305ec" alt="OQQBlack Contestant 12" width="300" height="auto"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/5095a5e7-eeaa-46d0-89e2-333ac0d38754" alt="OQQWhite" width="300" height="auto"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/def03f3a-eeba-480f-bcf8-67273073859d" alt="OQQTransparentWhite" width="300" height="auto"/>
+<br/>
 <img src="https://github.com/user-attachments/assets/4bac8b8c-51f0-45a3-80de-851a76211a1c" alt="OQQColorVariation" width="300" height="auto"/>
 
 <h2>All Logo Contestants</h2>
